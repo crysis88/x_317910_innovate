@@ -1,0 +1,19 @@
+{
+  "dependent_value": "",
+  "element": "u_idea_type",
+  "hint": "",
+  "inactive": false,
+  "label": "Team Building",
+  "language": "en",
+  "name": "x_317910_innovate_innovate",
+  "sequence": 2,
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-02-25 06:54:08",
+  "sys_domain": "global",
+  "sys_domain_path": "/",
+  "sys_id": "04c3a05adb332300a53cfbef29961931",
+  "sys_mod_count": 0,
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-02-25 06:54:08",
+  "value": "team"
+}

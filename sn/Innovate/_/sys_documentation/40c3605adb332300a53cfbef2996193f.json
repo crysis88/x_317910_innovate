@@ -1,0 +1,23 @@
+{
+  "element": "u_idea_type",
+  "help": "",
+  "hint": "",
+  "label": "idea_type",
+  "language": "en",
+  "name": "x_317910_innovate_innovate",
+  "plural": "idea_types",
+  "sys_class_name": "sys_documentation",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-02-25 06:54:08",
+  "sys_id": "40c3605adb332300a53cfbef2996193f",
+  "sys_mod_count": 0,
+  "sys_name": "idea_type",
+  "sys_package": "26c0d0c9db332300a53cfbef29961902",
+  "sys_policy": "",
+  "sys_scope": "26c0d0c9db332300a53cfbef29961902",
+  "sys_update_name": "sys_documentation_x_317910_innovate_innovate_u_idea_type_en",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-02-25 06:54:08",
+  "url": "",
+  "url_target": ""
+}
