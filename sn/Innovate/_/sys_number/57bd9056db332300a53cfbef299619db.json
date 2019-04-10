@@ -1,0 +1,18 @@
+{
+  "category": "x_317910_innovate_innovate",
+  "maximum_digits": 6,
+  "number": 3000,
+  "prefix": "INNO",
+  "sys_class_name": "sys_number",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-02-25 06:27:51",
+  "sys_id": "57bd9056db332300a53cfbef299619db",
+  "sys_mod_count": 0,
+  "sys_name": "INNO",
+  "sys_package": "26c0d0c9db332300a53cfbef29961902",
+  "sys_policy": "",
+  "sys_scope": "26c0d0c9db332300a53cfbef29961902",
+  "sys_update_name": "sys_number_57bd9056db332300a53cfbef299619db",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-02-25 06:27:51"
+}

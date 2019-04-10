@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "description": "Open a new 'Innovate' form",
+  "display_name": "Open a New Form",
+  "inputs": "",
+  "order": 1,
+  "step_config": "05317cd10b10220050192f15d6673af8",
+  "sys_class_name": "sys_atf_step",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-03-11 06:35:05",
+  "sys_id": "c175a836db003300a53cfbef2996192f",
+  "sys_mod_count": 0,
+  "sys_name": "Open a New Form",
+  "sys_package": "26c0d0c9db332300a53cfbef29961902",
+  "sys_policy": "",
+  "sys_scope": "26c0d0c9db332300a53cfbef29961902",
+  "sys_update_name": "sys_atf_step_c175a836db003300a53cfbef2996192f",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-03-11 06:35:05",
+  "table": "x_317910_innovate_innovate",
+  "test": "893524b2db003300a53cfbef29961911",
+  "timeout": ""
+}

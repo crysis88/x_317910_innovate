@@ -1,0 +1,14 @@
+{
+  "document": "sys_atf_step",
+  "document_key": "d9b5a4f2db003300a53cfbef29961919",
+  "order": 100,
+  "sys_class_name": "sys_variable_value",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-03-11 06:36:16",
+  "sys_id": "36e52476db003300a53cfbef29961965",
+  "sys_mod_count": 2,
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-03-11 07:18:09",
+  "value": "u_idea_type=cost^u_description=Test Idea^u_string_1=short test idea^EQ",
+  "variable": "b3dba2465320220002c6435723dc34f0"
+}

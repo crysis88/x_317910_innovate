@@ -1,0 +1,19 @@
+{
+  "dependent_value": "",
+  "element": "u_idea_type",
+  "hint": "",
+  "inactive": false,
+  "label": "Cost Savings",
+  "language": "en",
+  "name": "x_317910_innovate_innovate",
+  "sequence": 0,
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-02-25 06:54:08",
+  "sys_domain": "global",
+  "sys_domain_path": "/",
+  "sys_id": "4cc3a05adb332300a53cfbef29961922",
+  "sys_mod_count": 0,
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-02-25 06:54:08",
+  "value": "cost"
+}
